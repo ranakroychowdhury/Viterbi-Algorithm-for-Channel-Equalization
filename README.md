@@ -1,2 +1,3 @@
 # Viterbi_Algorithm_for_Channel_Equalization
  
+When a sequence of bits is transmitted through a channel, they may get distorted because of intersymbol interference (ISI) & noise. The task of channel equalization is to regenerate originally transmitted bit sequence from the received, possibly distorted values. In this project, I use the Viterbi Algorithm for predicting the k-th transmitted bit from previous l successively received samples. In this way, we try to predict the full bit sequence. Please refer to the problem statement to better understand the modeling and specifics of the implementation of our solution.
